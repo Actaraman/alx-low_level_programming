@@ -2,11 +2,11 @@
 #include <unistd.h>
 /**
  ** main - Entry point
- ** Return: Always 0 (success)
+ ** Return: Always 1 (success)
  **/
 int main(void)
 {
-write("and that piece of art is useful\" - Dora Korpar, 2015-10-19");
-return (0);
+write(2, "and that piece of art is useful\" - Dora Korpar, 2015-10-19", 58);
+return (1);
 }
 
