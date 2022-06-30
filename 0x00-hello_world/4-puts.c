@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	string output;
+	char output[];
 	output = "Programming is like building a multilingual puzzle\n";
 	put(output);
 }
