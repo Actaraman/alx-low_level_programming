@@ -5,6 +5,6 @@
  ** Return: Always 1 (success)
  **/
 int main(void)
-{
-	 printing();
+{	
+       int printing();
 }
