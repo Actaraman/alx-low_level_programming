@@ -6,5 +6,6 @@
  **/
 int main(void)
 {	
-       int printing();
+      int printing();
+      return (0);
 }
