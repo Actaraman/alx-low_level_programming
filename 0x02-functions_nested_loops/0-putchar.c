@@ -6,6 +6,6 @@
  **/
 int main(void)
 {
-printing(void);
+void prnting(void);
 return (0);
 }
