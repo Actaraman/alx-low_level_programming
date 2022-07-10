@@ -6,7 +6,7 @@
 ** @c: paramater for entry
 ** Return: Always nothing (success)
 **/
-int _isalpha(int c);
+int _isalpha(int c)
 {
 	if (isalpha(c))
 	{
