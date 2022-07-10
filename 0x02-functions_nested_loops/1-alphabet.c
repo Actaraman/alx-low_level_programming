@@ -1,7 +1,5 @@
 #include "main.h"
 
-void print_alphabet(void);
-
 /**
 ** print_alphabet - Entry point
 ** Return: Always nothing (success)
