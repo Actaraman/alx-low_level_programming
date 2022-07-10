@@ -8,6 +8,6 @@
 **/
 int _abs(int c)
 {
-	_putchar(abs(c));
+	_putchar(abs(c + '0'));
 	return (0);
 }
